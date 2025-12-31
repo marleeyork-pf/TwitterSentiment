@@ -1,8 +1,6 @@
 <!-- TwitterSentiment README (HTML) -->
 
-<h1>TwitterSentiment</h1>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" 
-       width="22" alt="Twitter icon">
+<h1>TwitterSentiment</h1> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="22" alt="Twitter icon">
 <p><strong>Pipeline for pulling and performing sentiment analysis of Tweets on a specific subject</strong></p>
 
 <hr>
