@@ -52,7 +52,8 @@ carbonflux/
 <ul>
   <li><strong>Upscaling</strong>: This pipeline is prepared for a larger number of tweets, we just need API access.</li>
   <li><strong>Location Boundaries</strong>: Paid API access would also allow us to expand the analysis to include 
-                                            location boundaries</li>
+                                            location boundaries. This would prevent some locations (eg Iowa) from not
+                                            having enough subject-related tweets. </li>
 </ul>
 
 <h2>Contact</h2>
