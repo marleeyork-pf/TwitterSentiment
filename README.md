@@ -34,8 +34,7 @@
   Twitter across various locations in the United States. From this, we were able to identify regional trends. For 
   example, of the locations observed, Arizona had the most negative tweets regarding climate change, while Florida
   had the most neutral sentiment and New York the most positive.
-
-  Insert image here.
+  <img src="test_case1_visual.png" width="400" alt="Climate Change Sentiment Comparison Across Locations">
 </p>
 
 <h2>Workflow Overview</h2>
@@ -44,23 +43,16 @@ carbonflux/
 ├── X_webscrape.py          # Pipeline to pull subject data from Twitter API
 ├── load_data.py            # Function to load Tweet pickle and preprocess
 ├── sentimentAnalysis.py    # Class to perform sentiment analysis
-├── test_case1              # Climate change test case
+├── test_case1.py           # Climate change test case
+├── test_case1_visual.py    # Visualization for test case 1
 └── README.md
 </pre>
 
 <h2>Future Directions</h2>
 <ul>
-  <li><strong>Peer-Reviewed Publication</strong>: In revision, stay tuned!</li>
-  <li><strong>AmeriFlux 2025 Annual Meeting Poster</strong>: 
-    <a href="communication/AmeriFluxPoster.pdf">View PDF</a>
-  </li>
-  <li><strong>Biennial Conference of Science and Management Speaker Presentation</strong>: 
-    <a href="communication/Presentation_Biennial.pdf">View PDF</a>
-  </li>
-  <li><strong>Python for Ecologist Workshop Leader</strong>: used this data to train ecologists in Matplotlib and seaborn</li>
-  <li><strong>American Geophysical Union 2024 Poster</strong>: 
-    <a href="communication/AmeriFluxPoster.pdf">View PDF</a>
-  </li>
+  <li><strong>Upscaling</strong>: This pipeline is prepared for a larger number of tweets, we just need API access.</li>
+  <li><strong>Location Boundaries</strong>: Paid API access would also allow us to expand the analysis to include 
+                                            location boundaries</li>
 </ul>
 
 <h2>Contact</h2>
