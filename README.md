@@ -1,6 +1,8 @@
 <!-- TwitterSentiment README (HTML) -->
 
 <h1>TwitterSentiment</h1>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" 
+       width="22" alt="Twitter icon">
 <p><strong>Pipeline for pulling and performing sentiment analysis of Tweets on a specific subject</strong></p>
 
 <hr>
@@ -8,8 +10,9 @@
 <h2>TLDR</h2>
 <p>
   <strong>TwitterSentiment</strong> is a reproducible data pipeline to pull tweets on a specific subject, preprocess and clean
-  text for use, perform VADER sentiment analysis, and visualize results. As a test case, we applied this to climate change 
-  related tweets across multiple locations.
+  text for use, perform VADER sentiment analysis, and visualize results. As a test case, we applied this to compare sentiment of 
+  a sample of recent climate-change-related tweets across multiple states. This can be upscaled to a larger number of tweets
+  and any topic of choice. To deal
 </p>
 
 <h2>Highlights</h2>
