@@ -8,7 +8,8 @@
 <h2>TLDR</h2>
 <p>
   <strong>TwitterSentiment</strong> is a reproducible data pipeline to pull tweets on a specific subject, preprocess and clean
-  text for use, perform VADER sentiment analysis, and visualize results.
+  text for use, perform VADER sentiment analysis, and visualize results. As a test case, we applied this to climate change 
+  related tweets across multiple locations.
 </p>
 
 <h2>Highlights</h2>
