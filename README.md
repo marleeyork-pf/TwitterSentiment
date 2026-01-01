@@ -63,5 +63,4 @@ carbonflux/
 <p>
   For questions or collaboration: <strong>marleeyork2025@gmail.com</strong><br>
 <p>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg="badge/status-research--prototype-purple.svg
-</p>
+
